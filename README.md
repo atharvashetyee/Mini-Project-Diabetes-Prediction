@@ -1,1 +1,1 @@
-# Mini-Project-Diabetes-Prediction
+# Mini-Project
